@@ -1,0 +1,115 @@
+
+<http://model.geneontology.org/592dd65c00000015> a <http://www.w3.org/2002/07/owl#Ontology> .
+
+<http://geneontology.org/lego/derived> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://geneontology.org/lego/hint/layout/x> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://geneontology.org/lego/hint/layout/y> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://www.geneontology.org/formats/oboInOwl#id> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://purl.obolibrary.org/obo/RO_0002333> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://model.geneontology.org/592dd65c00000015> <http://geneontology.org/lego/modelstate> "development"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.geneontology.org/formats/oboInOwl#id> "gomodel:592dd65c00000015"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Ontology> ;
+	<http://www.w3.org/2002/07/owl#imports> <http://purl.obolibrary.org/obo/upheno/monarch.owl> ;
+	<http://purl.org/dc/elements/1.1/title> "GA synthesis (dwarf rice)"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0001-6996-0040"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-31"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/592dd65c00000015/592dd65c00000016> <http://geneontology.org/lego/hint/layout/x> "75"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "75"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.obolibrary.org/obo/RO_0000087> <http://model.geneontology.org/592dd65c00000015/592dd65c00000019> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://www.ensemblgenomes.org/id/OS06G0569500> ;
+	<http://www.w3.org/2000/01/rdf-schema#comment> "D35 encodes ent-kaurene oxidase which catalyzes the early three steps of gibberellin synthesis (ent-kaurene→ent-kaurenol→ent-kaurenal→ent-kaurenoic acid) (Itoh et al. 2004)."^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0001-6996-0040"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-31"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/592dd65c00000015/592dd65c00000017> <http://geneontology.org/lego/hint/layout/x> "39"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "535"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://rapdb.dna.affrc.go.jp/tools/search/run?id=on&attr=desc&attr=cgs&attr=cgn&attr=cgss&attr=cgns&attr=rgss&attr=rgns&keyword=Os01g0883800> ;
+	<http://www.w3.org/2000/01/rdf-schema#comment> "SD1, the ‘green revolution’ gene, encodes GA20 oxidase which catalyzes three steps (GA53→GA44→GA19→GA20) (Sasaki et al. 2002)."^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0001-6996-0040"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-31"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/592dd65c00000015/592dd65c00000018> <http://geneontology.org/lego/hint/layout/x> "637"^^<http://www.w3.org/2001/XMLSchema#string> , "655"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "58"^^<http://www.w3.org/2001/XMLSchema#string> , "59"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.obolibrary.org/obo/RO_0002333> <http://model.geneontology.org/592dd65c00000015/592dd65c00000019> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://purl.obolibrary.org/obo/GO_0009686> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0001-6996-0040"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-31"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/592dd65c00000015/592dd65c00000019> <http://geneontology.org/lego/hint/layout/x> "343"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "228"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://purl.obolibrary.org/obo/GO_0052615> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0001-6996-0040"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-31"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/592dd65c00000015/592dd65c00000020> <http://geneontology.org/lego/hint/layout/x> "994"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "230"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://purl.obolibrary.org/obo/TO_0000207> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0001-6996-0040"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-31"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/592dd65c00000015/592dd65c00000022> <http://geneontology.org/lego/hint/layout/x> "954"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "423"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://purl.obolibrary.org/obo/CHEBI_28833> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0001-6996-0040"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-31"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://purl.obolibrary.org/obo/CHEBI_28833> <http://www.geneontology.org/formats/oboInOwl#id> "CHEBI:28833"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://purl.obolibrary.org/obo/GO_0009686> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://purl.obolibrary.org/obo/GO_0052615> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://purl.obolibrary.org/obo/RO_0000087> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://purl.obolibrary.org/obo/TO_0000207> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://rapdb.dna.affrc.go.jp/tools/search/run?id=on&attr=desc&attr=cgs&attr=cgn&attr=cgss&attr=cgns&attr=rgss&attr=rgns&keyword=Os01g0883800> <http://www.geneontology.org/formats/oboInOwl#id> "RAP-DB:Os01g0883800"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Class> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Os01g0883800"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://www.ensemblgenomes.org/id/OS06G0569500> <http://www.geneontology.org/formats/oboInOwl#id> "EnsemblPlants:OS06G0569500"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Class> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "OS06G0569500"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://www.w3.org/2000/01/rdf-schema#label> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://purl.org/dc/elements/1.1/contributor> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://purl.org/dc/elements/1.1/date> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+_:t286 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOwl#id> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://purl.obolibrary.org/obo/CHEBI_28833> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "CHEBI:28833"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t287 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOwl#id> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://rapdb.dna.affrc.go.jp/tools/search/run?id=on&attr=desc&attr=cgs&attr=cgn&attr=cgss&attr=cgns&attr=rgss&attr=rgns&keyword=Os01g0883800> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "RAP-DB:Os01g0883800"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t288 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.w3.org/2000/01/rdf-schema#label> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://rapdb.dna.affrc.go.jp/tools/search/run?id=on&attr=desc&attr=cgs&attr=cgn&attr=cgss&attr=cgns&attr=rgss&attr=rgns&keyword=Os01g0883800> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "Os01g0883800"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t289 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOwl#id> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://www.ensemblgenomes.org/id/OS06G0569500> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "EnsemblPlants:OS06G0569500"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t290 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.w3.org/2000/01/rdf-schema#label> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://www.ensemblgenomes.org/id/OS06G0569500> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "OS06G0569500"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .

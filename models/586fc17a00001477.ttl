@@ -1,0 +1,475 @@
+
+<http://model.geneontology.org/586fc17a00001477> a <http://www.w3.org/2002/07/owl#Ontology> .
+
+<http://geneontology.org/lego/derived> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://geneontology.org/lego/hint/layout/x> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://geneontology.org/lego/hint/layout/y> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://geneontology.org/lego/json-model> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://identifiers.org/TAIR:locus:2159208> <http://www.geneontology.org/formats/oboInOwl#id> "TAIR:locus:2159208"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Class> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "LFY"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://www.geneontology.org/formats/oboInOwl#id> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://identifiers.org/TAIR:locus:2005515> <http://www.geneontology.org/formats/oboInOwl#id> "TAIR:locus:2005515"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Class> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "PHYB"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://identifiers.org/TAIR:locus:2005522> <http://www.geneontology.org/formats/oboInOwl#id> "TAIR:locus:2005522"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Class> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "AGL20"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://identifiers.org/TAIR:locus:2012300> <http://www.geneontology.org/formats/oboInOwl#id> "TAIR:locus:2012300"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Class> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "PHYA"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://identifiers.org/TAIR:locus:2033273> <http://www.geneontology.org/formats/oboInOwl#id> "TAIR:locus:2033273"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Class> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "AP1"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://identifiers.org/TAIR:locus:2034168> <http://www.geneontology.org/formats/oboInOwl#id> "TAIR:locus:2034168"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Class> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "FT"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://identifiers.org/TAIR:locus:2056886> <http://www.geneontology.org/formats/oboInOwl#id> "TAIR:locus:2056886"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Class> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "FT1"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://identifiers.org/TAIR:locus:2120106> <http://www.geneontology.org/formats/oboInOwl#id> "TAIR:locus:2120106"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Class> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "SHR"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://identifiers.org/TAIR:locus:2125349> <http://www.geneontology.org/formats/oboInOwl#id> "TAIR:locus:2125349"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Class> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "FD"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://identifiers.org/TAIR:locus:2143206> <http://www.geneontology.org/formats/oboInOwl#id> "TAIR:locus:2143206"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Class> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "CO"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://identifiers.org/TAIR:locus:2184118> <http://www.geneontology.org/formats/oboInOwl#id> "TAIR:locus:2184118"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Class> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "FLC"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://identifiers.org/TAIR:locus:2184565> <http://www.geneontology.org/formats/oboInOwl#id> "TAIR:locus:2184565"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Class> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "SHBY"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477> <http://geneontology.org/lego/json-model> "{\"id\":\"gomodel:586fc17a00001477\",\"individuals\":[{\"id\":\"gomodel:586fc17a00001477/586fc17a00001490\",\"type\":[{\"type\":\"class\",\"id\":\"GO:0048366\",\"label\":\"leaf development\"}],\"annotations\":[{\"key\":\"hint-layout-y\",\"value\":\"123\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"hint-layout-x\",\"value\":\"1066\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001491\",\"type\":[{\"type\":\"class\",\"id\":\"GO:0009740\",\"label\":\"gibberellic acid mediated signaling pathway\"}],\"annotations\":[{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"hint-layout-y\",\"value\":\"639\"},{\"key\":\"hint-layout-x\",\"value\":\"813\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001479\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2005515\",\"label\":\"PHYB Atal\"}],\"annotations\":[{\"key\":\"hint-layout-x\",\"value\":\"179\"},{\"key\":\"hint-layout-y\",\"value\":\"24.216659545898438\"},{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001478\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2143206\",\"label\":\"CO Atal\"}],\"annotations\":[{\"key\":\"hint-layout-y\",\"value\":\"187\"},{\"key\":\"hint-layout-x\",\"value\":\"182\"},{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001486\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2159208\",\"label\":\"LFY Atal\"}],\"annotations\":[{\"key\":\"hint-layout-y\",\"value\":\"478.7833251953125\"},{\"key\":\"hint-layout-x\",\"value\":\"1073.11669921875\"},{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001485\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2184118\",\"label\":\"FLC Atal\"}],\"annotations\":[{\"key\":\"hint-layout-y\",\"value\":\"646\"},{\"key\":\"hint-layout-x\",\"value\":\"322\"},{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001503\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2034168\",\"label\":\"FT Atal\"}],\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001502\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2125349\",\"label\":\"FD Atal\"}],\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001501\",\"type\":[{\"type\":\"class\",\"id\":\"GO:0043234\",\"label\":\"protein complex\"}],\"annotations\":[{\"key\":\"hint-layout-y\",\"value\":\"453\"},{\"key\":\"hint-layout-x\",\"value\":\"182\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001480\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2012300\",\"label\":\"PHYA Atal\"}],\"annotations\":[{\"key\":\"hint-layout-x\",\"value\":\"575\"},{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"hint-layout-y\",\"value\":\"24\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001487\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2033273\",\"label\":\"AP1 Atal\"}],\"annotations\":[{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"hint-layout-y\",\"value\":\"309\"},{\"key\":\"hint-layout-x\",\"value\":\"1071\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001489\",\"type\":[{\"type\":\"class\",\"id\":\"GO:0043153\",\"label\":\"entrainment of circadian clock by photoperiod\"}],\"annotations\":[{\"key\":\"hint-layout-x\",\"value\":\"571.88330078125\"},{\"key\":\"hint-layout-y\",\"value\":\"176\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001481\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2056886\",\"label\":\"FT1 Atal\"}],\"annotations\":[{\"key\":\"hint-layout-y\",\"value\":\"344\"},{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"hint-layout-x\",\"value\":\"180\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001482\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2005522\",\"label\":\"AGL20 Atal\"}],\"annotations\":[{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"hint-layout-y\",\"value\":\"486\"},{\"key\":\"hint-layout-x\",\"value\":\"566\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001483\",\"type\":[{\"type\":\"class\",\"id\":\"GO:0048574\",\"label\":\"long-day photoperiodism, flowering\"}],\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"hint-layout-x\",\"value\":\"567\"},{\"key\":\"hint-layout-y\",\"value\":\"347\"}]}],\"facts\":[{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001501\",\"property\":\"BFO:0000051\",\"property-label\":\"has_part\",\"object\":\"gomodel:586fc17a00001477/586fc17a00001503\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001501\",\"property\":\"BFO:0000051\",\"property-label\":\"has_part\",\"object\":\"gomodel:586fc17a00001477/586fc17a00001502\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001479\",\"property\":\"RO:0002212\",\"property-label\":\"negatively_regulates\",\"object\":\"gomodel:586fc17a00001477/586fc17a00001478\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001487\",\"property\":\"RO:0002212\",\"property-label\":\"negatively_regulates\",\"object\":\"gomodel:586fc17a00001477/586fc17a00001490\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001487\",\"property\":\"RO:0002213\",\"property-label\":\"positively regulates\",\"object\":\"gomodel:586fc17a00001477/586fc17a00001483\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001486\",\"property\":\"RO:0002213\",\"property-label\":\"positively regulates\",\"object\":\"gomodel:586fc17a00001477/586fc17a00001487\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001491\",\"property\":\"RO:0002213\",\"property-label\":\"positively regulates\",\"object\":\"gomodel:586fc17a00001477/586fc17a00001482\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001489\",\"property\":\"RO:0002211\",\"property-label\":\"regulates\",\"object\":\"gomodel:586fc17a00001477/586fc17a00001483\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001485\",\"property\":\"RO:0002212\",\"property-label\":\"negatively_regulates\",\"object\":\"gomodel:586fc17a00001477/586fc17a00001482\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001486\",\"property\":\"RO:0002213\",\"property-label\":\"positively regulates\",\"object\":\"gomodel:586fc17a00001477/586fc17a00001483\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001480\",\"property\":\"RO:0002211\",\"property-label\":\"regulates\",\"object\":\"gomodel:586fc17a00001477/586fc17a00001489\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001482\",\"property\":\"RO:0002213\",\"property-label\":\"positively regulates\",\"object\":\"gomodel:586fc17a00001477/586fc17a00001486\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001501\",\"property\":\"RO:0002213\",\"property-label\":\"positively regulates\",\"object\":\"gomodel:586fc17a00001477/586fc17a00001482\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001487\",\"property\":\"RO:0002213\",\"property-label\":\"positively regulates\",\"object\":\"gomodel:586fc17a00001477/586fc17a00001486\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001478\",\"property\":\"RO:0002406\",\"property-label\":\"directly activates\",\"object\":\"gomodel:586fc17a00001477/586fc17a00001481\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001501\",\"property\":\"BFO:0000051\",\"property-label\":\"has_part\",\"object\":\"gomodel:586fc17a00001477/586fc17a00001481\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001489\",\"property\":\"RO:0002211\",\"property-label\":\"regulates\",\"object\":\"gomodel:586fc17a00001477/586fc17a00001478\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]}],\"annotations\":[{\"key\":\"state\",\"value\":\"development\"},{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"title\",\"value\":\"Arabidopsis Long-day induced flowering\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"}]}"^^<http://www.w3.org/2001/XMLSchema#string> , "{\"id\":\"gomodel:586fc17a00001477\",\"individuals\":[{\"id\":\"gomodel:586fc17a00001477/586fc17a00001485\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2184118\",\"label\":\"FLC\"}],\"annotations\":[{\"key\":\"hint-layout-y\",\"value\":\"646\"},{\"key\":\"hint-layout-x\",\"value\":\"322\"},{\"key\":\"RO:0002212\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001482\",\"value-type\":\"IRI\"},{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001491\",\"type\":[{\"type\":\"class\",\"id\":\"GO:0009740\",\"label\":\"gibberellic acid mediated signaling pathway\"}],\"annotations\":[{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"RO:0002213\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001482\",\"value-type\":\"IRI\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"hint-layout-y\",\"value\":\"639\"},{\"key\":\"hint-layout-x\",\"value\":\"813\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001483\",\"type\":[{\"type\":\"class\",\"id\":\"GO:0048574\",\"label\":\"long-day photoperiodism, flowering\"}],\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"hint-layout-x\",\"value\":\"567\"},{\"key\":\"hint-layout-y\",\"value\":\"347\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001482\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2005522\",\"label\":\"AGL20\"}],\"annotations\":[{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"hint-layout-y\",\"value\":\"486\"},{\"key\":\"hint-layout-x\",\"value\":\"566\"},{\"key\":\"RO:0002213\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001486\",\"value-type\":\"IRI\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001479\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2005515\",\"label\":\"PHYB\"}],\"annotations\":[{\"key\":\"RO:0002212\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001478\",\"value-type\":\"IRI\"},{\"key\":\"hint-layout-y\",\"value\":\"14.216659545898438\"},{\"key\":\"date\",\"value\":\"2017-04-13\"},{\"key\":\"hint-layout-x\",\"value\":\"239\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001478\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2143206\",\"label\":\"CO\"}],\"annotations\":[{\"key\":\"hint-layout-y\",\"value\":\"202\"},{\"key\":\"RO:0002406\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001481\",\"value-type\":\"IRI\"},{\"key\":\"date\",\"value\":\"2017-04-13\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"hint-layout-x\",\"value\":\"307\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001502\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2125349\",\"label\":\"FD\"}],\"annotations\":[{\"key\":\"hint-layout-x\",\"value\":\"3225\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"hint-layout-y\",\"value\":\"75\"},{\"key\":\"date\",\"value\":\"2017-04-13\"}]},{\"id\":\"gomodel:586fc17a00001477/58e5345900000007\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2056886\",\"label\":\"FT1\"}],\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-04-13\"},{\"key\":\"hint-layout-x\",\"value\":\"40\"},{\"key\":\"hint-layout-y\",\"value\":\"115\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001501\",\"type\":[{\"type\":\"class\",\"id\":\"GO:0043234\",\"label\":\"protein complex\"}],\"annotations\":[{\"key\":\"BFO:0000051\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001502\",\"value-type\":\"IRI\"},{\"key\":\"BFO:0000051\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001503\",\"value-type\":\"IRI\"},{\"key\":\"RO:0002213\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001482\",\"value-type\":\"IRI\"},{\"key\":\"hint-layout-y\",\"value\":\"453\"},{\"key\":\"hint-layout-x\",\"value\":\"182\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"BFO:0000051\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001481\",\"value-type\":\"IRI\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001480\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2012300\",\"label\":\"PHYA\"}],\"annotations\":[{\"key\":\"hint-layout-x\",\"value\":\"575\"},{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"hint-layout-y\",\"value\":\"24\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"RO:0002211\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001489\",\"value-type\":\"IRI\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001481\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2056886\",\"label\":\"FT1\"}],\"annotations\":[{\"key\":\"hint-layout-y\",\"value\":\"344\"},{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"hint-layout-x\",\"value\":\"180\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001503\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2034168\",\"label\":\"FT\"}],\"annotations\":[{\"key\":\"hint-layout-x\",\"value\":\"1650\"},{\"key\":\"hint-layout-y\",\"value\":\"75\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-04-13\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001489\",\"type\":[{\"type\":\"class\",\"id\":\"GO:0043153\",\"label\":\"entrainment of circadian clock by photoperiod\"}],\"annotations\":[{\"key\":\"RO:0002211\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001483\",\"value-type\":\"IRI\"},{\"key\":\"hint-layout-x\",\"value\":\"571.88330078125\"},{\"key\":\"hint-layout-y\",\"value\":\"176\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"RO:0002211\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001478\",\"value-type\":\"IRI\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001490\",\"type\":[{\"type\":\"class\",\"id\":\"GO:0048366\",\"label\":\"leaf development\"}],\"annotations\":[{\"key\":\"hint-layout-y\",\"value\":\"123\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"hint-layout-x\",\"value\":\"1066\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001487\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2033273\",\"label\":\"AP1\"}],\"annotations\":[{\"key\":\"RO:0002212\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001490\",\"value-type\":\"IRI\"},{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"RO:0002213\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001483\",\"value-type\":\"IRI\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"hint-layout-y\",\"value\":\"309\"},{\"key\":\"hint-layout-x\",\"value\":\"1071\"},{\"key\":\"RO:0002213\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001486\",\"value-type\":\"IRI\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001486\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2159208\",\"label\":\"LFY\"}],\"annotations\":[{\"key\":\"hint-layout-y\",\"value\":\"478.7833251953125\"},{\"key\":\"hint-layout-x\",\"value\":\"1073.11669921875\"},{\"key\":\"RO:0002213\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001483\",\"value-type\":\"IRI\"},{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"RO:0002213\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001487\",\"value-type\":\"IRI\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"}]}],\"facts\":[{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001479\",\"property\":\"RO:0002213\",\"property-label\":\"positively regulates\",\"object\":\"gomodel:586fc17a00001477/58e5345900000007\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-04-13\"}]},{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001479\",\"property\":\"RO:0002343\",\"property-label\":\"results in growth of\",\"object\":\"gomodel:586fc17a00001477/586fc17a00001489\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-04-13\"}]}],\"annotations\":[{\"key\":\"state\",\"value\":\"development\"},{\"key\":\"title\",\"value\":\"Arabidopsis Long-day induced flowering\"},{\"key\":\"date\",\"value\":\"2017-04-13\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"http://www.geneontology.org/formats/oboInOwl#id\",\"value\":\"gomodel:586fc17a00001477\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"}]}"^^<http://www.w3.org/2001/XMLSchema#string> , "{\"id\":\"gomodel:586fc17a00001477\",\"individuals\":[{\"id\":\"gomodel:586fc17a00001477/590387f200000009\",\"type\":[{\"type\":\"class\",\"id\":\"GO:0004872\",\"label\":\"receptor activity\"}],\"annotations\":[{\"key\":\"date\",\"value\":\"2017-05-02\"},{\"key\":\"hint-layout-y\",\"value\":\"13\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"hint-layout-x\",\"value\":\"372\"}]},{\"id\":\"gomodel:586fc17a00001477/590387f200000008\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2184565\",\"label\":\"SHBY\"}],\"annotations\":[{\"key\":\"date\",\"value\":\"2017-05-02\"},{\"key\":\"hint-layout-x\",\"value\":\"52\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"hint-layout-y\",\"value\":\"266\"}]},{\"id\":\"gomodel:586fc17a00001477/590387f200000007\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2120106\",\"label\":\"SHR\"}],\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"date\",\"value\":\"2017-05-02\"},{\"key\":\"hint-layout-y\",\"value\":\"339\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001479\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2005515\",\"label\":\"PHYB\"}],\"annotations\":[{\"key\":\"RO:0002213\",\"value\":\"gomodel:586fc17a00001477/58e5345900000007\",\"value-type\":\"IRI\"},{\"key\":\"hint-layout-y\",\"value\":\"14.216659545898438\"},{\"key\":\"RO:0002212\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001478\",\"value-type\":\"IRI\"},{\"key\":\"date\",\"value\":\"2017-04-13\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"hint-layout-x\",\"value\":\"239\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001478\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2143206\",\"label\":\"CO\"}],\"annotations\":[{\"key\":\"hint-layout-y\",\"value\":\"247\"},{\"key\":\"hint-layout-x\",\"value\":\"346\"},{\"key\":\"RO:0002406\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001481\",\"value-type\":\"IRI\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"date\",\"value\":\"2017-05-02\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"}]},{\"id\":\"gomodel:586fc17a00001477/590387f200000012\",\"type\":[{\"type\":\"class\",\"id\":\"EO:0007207\",\"label\":\"red light regimen\"}],\"annotations\":[{\"key\":\"date\",\"value\":\"2017-05-02\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"hint-layout-x\",\"value\":\"879\"},{\"key\":\"hint-layout-y\",\"value\":\"123\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001503\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2034168\",\"label\":\"FT\"}],\"annotations\":[{\"key\":\"hint-layout-x\",\"value\":\"1650\"},{\"key\":\"hint-layout-y\",\"value\":\"75\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-04-13\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001502\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2125349\",\"label\":\"FD\"}],\"annotations\":[{\"key\":\"hint-layout-x\",\"value\":\"3225\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"hint-layout-y\",\"value\":\"75\"},{\"key\":\"date\",\"value\":\"2017-04-13\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001489\",\"type\":[{\"type\":\"class\",\"id\":\"GO:0043153\",\"label\":\"entrainment of circadian clock by photoperiod\"}],\"annotations\":[{\"key\":\"RO:0002211\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001483\",\"value-type\":\"IRI\"},{\"key\":\"hint-layout-y\",\"value\":\"152\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"RO:0002211\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001478\",\"value-type\":\"IRI\"},{\"key\":\"hint-layout-x\",\"value\":\"559.875\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"date\",\"value\":\"2017-05-02\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001487\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2033273\",\"label\":\"AP1\"}],\"annotations\":[{\"key\":\"date\",\"value\":\"2017-05-02\"},{\"key\":\"hint-layout-y\",\"value\":\"189.99998474121094\"},{\"key\":\"RO:0002212\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001490\",\"value-type\":\"IRI\"},{\"key\":\"hint-layout-x\",\"value\":\"880\"},{\"key\":\"RO:0002213\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001483\",\"value-type\":\"IRI\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"RO:0002213\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001486\",\"value-type\":\"IRI\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001486\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2159208\",\"label\":\"LFY\"}],\"annotations\":[{\"key\":\"date\",\"value\":\"2017-05-02\"},{\"key\":\"hint-layout-x\",\"value\":\"920.11669921875\"},{\"key\":\"hint-layout-y\",\"value\":\"405.7833709716797\"},{\"key\":\"RO:0002213\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001483\",\"value-type\":\"IRI\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"RO:0002213\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001487\",\"value-type\":\"IRI\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001485\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2184118\",\"label\":\"FLC\"}],\"annotations\":[{\"key\":\"hint-layout-y\",\"value\":\"646\"},{\"key\":\"hint-layout-x\",\"value\":\"322\"},{\"key\":\"RO:0002212\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001482\",\"value-type\":\"IRI\"},{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"}]},{\"id\":\"gomodel:586fc17a00001477/590387f200000011\",\"type\":[{\"type\":\"class\",\"id\":\"TO:0000227\",\"label\":\"root length\"}],\"annotations\":[{\"key\":\"date\",\"value\":\"2017-05-02\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"hint-layout-y\",\"value\":\"152\"},{\"key\":\"hint-layout-x\",\"value\":\"151\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001483\",\"type\":[{\"type\":\"class\",\"id\":\"GO:0048574\",\"label\":\"long-day photoperiodism, flowering\"}],\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"hint-layout-y\",\"value\":\"352\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"date\",\"value\":\"2017-05-02\"},{\"key\":\"hint-layout-x\",\"value\":\"492\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001482\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2005522\",\"label\":\"AGL20\"}],\"annotations\":[{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"hint-layout-y\",\"value\":\"486\"},{\"key\":\"hint-layout-x\",\"value\":\"566\"},{\"key\":\"RO:0002213\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001486\",\"value-type\":\"IRI\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001481\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2056886\",\"label\":\"FT1\"}],\"annotations\":[{\"key\":\"date\",\"value\":\"2017-05-02\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"hint-layout-y\",\"value\":\"335.99998474121094\"},{\"key\":\"hint-layout-x\",\"value\":\"261\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001480\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2012300\",\"label\":\"PHYA\"}],\"annotations\":[{\"key\":\"hint-layout-y\",\"value\":\"21\"},{\"key\":\"hint-layout-x\",\"value\":\"635\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-05-02\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"RO:0002211\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001489\",\"value-type\":\"IRI\"}]},{\"id\":\"gomodel:586fc17a00001477/590387f200000013\",\"type\":[{\"type\":\"class\",\"id\":\"PO:0025025\",\"label\":\"root system\"}],\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"date\",\"value\":\"2017-05-02\"}]},{\"id\":\"gomodel:586fc17a00001477/590387f200000014\",\"type\":[{\"type\":\"class\",\"id\":\"PO:0007057\",\"label\":\"seed germination stage\"}],\"annotations\":[{\"key\":\"hint-layout-y\",\"value\":\"360\"},{\"key\":\"hint-layout-x\",\"value\":\"727\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"date\",\"value\":\"2017-05-02\"}]},{\"id\":\"gomodel:586fc17a00001477/58e5345900000007\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2056886\",\"label\":\"FT1\"}],\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"date\",\"value\":\"2017-04-13\"},{\"key\":\"hint-layout-x\",\"value\":\"40\"},{\"key\":\"hint-layout-y\",\"value\":\"115\"}]},{\"id\":\"gomodel:586fc17a00001477/590387f200000010\",\"type\":[{\"type\":\"class\",\"id\":\"GO:0000989\",\"label\":\"transcription factor activity, transcription factor binding\"}],\"annotations\":[{\"key\":\"date\",\"value\":\"2017-05-02\"},{\"key\":\"hint-layout-y\",\"value\":\"12\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"hint-layout-x\",\"value\":\"7\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001501\",\"type\":[{\"type\":\"class\",\"id\":\"GO:0043234\",\"label\":\"protein complex\"}],\"annotations\":[{\"key\":\"BFO:0000051\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001502\",\"value-type\":\"IRI\"},{\"key\":\"BFO:0000051\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001503\",\"value-type\":\"IRI\"},{\"key\":\"RO:0002213\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001482\",\"value-type\":\"IRI\"},{\"key\":\"hint-layout-y\",\"value\":\"453\"},{\"key\":\"hint-layout-x\",\"value\":\"182\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"BFO:0000051\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001481\",\"value-type\":\"IRI\"},{\"key\":\"date\",\"value\":\"2017-03-14\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001491\",\"type\":[{\"type\":\"class\",\"id\":\"GO:0009740\",\"label\":\"gibberellic acid mediated signaling pathway\"}],\"annotations\":[{\"key\":\"date\",\"value\":\"2017-03-14\"},{\"key\":\"RO:0002213\",\"value\":\"gomodel:586fc17a00001477/586fc17a00001482\",\"value-type\":\"IRI\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"hint-layout-y\",\"value\":\"639\"},{\"key\":\"hint-layout-x\",\"value\":\"813\"}]},{\"id\":\"gomodel:586fc17a00001477/586fc17a00001490\",\"type\":[{\"type\":\"class\",\"id\":\"GO:0048366\",\"label\":\"leaf development\"}],\"annotations\":[{\"key\":\"hint-layout-x\",\"value\":\"881\"},{\"key\":\"date\",\"value\":\"2017-05-02\"},{\"key\":\"hint-layout-y\",\"value\":\"49\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"}]}],\"facts\":[{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001489\",\"property\":\"RO:0002213\",\"property-label\":\"positively regulates\",\"object\":\"gomodel:586fc17a00001477/590387f200000011\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"date\",\"value\":\"2017-05-02\"}]},{\"subject\":\"gomodel:586fc17a00001477/590387f200000009\",\"property\":\"RO:0002213\",\"property-label\":\"positively regulates\",\"object\":\"gomodel:586fc17a00001477/590387f200000010\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"date\",\"value\":\"2017-05-02\"}]},{\"subject\":\"gomodel:586fc17a00001477/590387f200000012\",\"property\":\"RO:0002211\",\"property-label\":\"regulates\",\"object\":\"gomodel:586fc17a00001477/586fc17a00001489\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"date\",\"value\":\"2017-05-02\"}]},{\"subject\":\"gomodel:586fc17a00001477/590387f200000009\",\"property\":\"RO:0002213\",\"property-label\":\"positively regulates\",\"object\":\"gomodel:586fc17a00001477/586fc17a00001489\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"date\",\"value\":\"2017-05-02\"}]},{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001489\",\"property\":\"RO:0002092\",\"property-label\":\"happens_during\",\"object\":\"gomodel:586fc17a00001477/590387f200000014\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"date\",\"value\":\"2017-05-02\"}]},{\"subject\":\"gomodel:586fc17a00001477/590387f200000009\",\"property\":\"RO:0002333\",\"property-label\":\"enabled by\",\"object\":\"gomodel:586fc17a00001477/586fc17a00001479\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"date\",\"value\":\"2017-05-02\"}]},{\"subject\":\"gomodel:586fc17a00001477/586fc17a00001489\",\"property\":\"BFO:0000066\",\"property-label\":\"occurs in\",\"object\":\"gomodel:586fc17a00001477/590387f200000013\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"date\",\"value\":\"2017-05-02\"}]},{\"subject\":\"gomodel:586fc17a00001477/590387f200000010\",\"property\":\"RO:0002333\",\"property-label\":\"enabled by\",\"object\":\"gomodel:586fc17a00001477/58e5345900000007\",\"annotations\":[{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"date\",\"value\":\"2017-05-02\"}]}],\"annotations\":[{\"key\":\"state\",\"value\":\"development\"},{\"key\":\"title\",\"value\":\"Arabidopsis Long-day induced flowering\"},{\"key\":\"date\",\"value\":\"2017-05-02\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-1005-8383\"},{\"key\":\"http://www.geneontology.org/formats/oboInOwl#id\",\"value\":\"gomodel:586fc17a00001477\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"}]}"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/modelstate> "development"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.geneontology.org/formats/oboInOwl#id> "gomodel:586fc17a00001477"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#versionIRI> <http://model.geneontology.org/586fc17a00001477> ;
+	a <http://www.w3.org/2002/07/owl#Ontology> ;
+	<http://www.w3.org/2002/07/owl#imports> <http://purl.obolibrary.org/obo/upheno/monarch.owl> , <http://purl.obolibrary.org/obo/go/extensions/go-lego.owl> ;
+	<http://purl.org/dc/elements/1.1/title> "Arabidopsis Long-day induced flowering"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> , "http://orcid.org/0000-0002-1005-8383"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/586fc17a00001478> <http://geneontology.org/lego/hint/layout/x> "346"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "247"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.obolibrary.org/obo/RO_0002406> <http://model.geneontology.org/586fc17a00001477/586fc17a00001481> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://identifiers.org/TAIR:locus:2143206> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> , "http://orcid.org/0000-0002-1005-8383"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/586fc17a00001479> <http://geneontology.org/lego/hint/layout/x> "239"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "14.216659545898438"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.obolibrary.org/obo/RO_0002212> <http://model.geneontology.org/586fc17a00001477/586fc17a00001478> ;
+	<http://purl.obolibrary.org/obo/RO_0002213> <http://model.geneontology.org/586fc17a00001477/58e5345900000007> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://identifiers.org/TAIR:locus:2005515> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-1005-8383"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-04-13"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/586fc17a00001480> <http://geneontology.org/lego/hint/layout/x> "635"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "21"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.obolibrary.org/obo/RO_0002211> <http://model.geneontology.org/586fc17a00001477/586fc17a00001489> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://identifiers.org/TAIR:locus:2012300> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> , "http://orcid.org/0000-0002-1005-8383"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/586fc17a00001481> <http://geneontology.org/lego/hint/layout/x> "261"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "335.99998474121094"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://identifiers.org/TAIR:locus:2056886> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> , "http://orcid.org/0000-0002-1005-8383"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/586fc17a00001482> <http://geneontology.org/lego/hint/layout/x> "566"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "486"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.obolibrary.org/obo/RO_0002213> <http://model.geneontology.org/586fc17a00001477/586fc17a00001486> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://identifiers.org/TAIR:locus:2005522> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-1005-8383"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-03-14"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/586fc17a00001483> <http://geneontology.org/lego/hint/layout/x> "492"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "352"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://purl.obolibrary.org/obo/GO_0048574> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> , "http://orcid.org/0000-0002-1005-8383"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/586fc17a00001485> <http://geneontology.org/lego/hint/layout/x> "322"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "646"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.obolibrary.org/obo/RO_0002212> <http://model.geneontology.org/586fc17a00001477/586fc17a00001482> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://identifiers.org/TAIR:locus:2184118> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-1005-8383"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-03-14"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/586fc17a00001486> <http://geneontology.org/lego/hint/layout/x> "920.11669921875"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "405.7833709716797"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.obolibrary.org/obo/RO_0002213> <http://model.geneontology.org/586fc17a00001477/586fc17a00001483> , <http://model.geneontology.org/586fc17a00001477/586fc17a00001487> ;
+	a <http://identifiers.org/TAIR:locus:2159208> , <http://www.w3.org/2002/07/owl#NamedIndividual> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> , "http://orcid.org/0000-0002-1005-8383"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/586fc17a00001487> <http://geneontology.org/lego/hint/layout/x> "880"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "189.99998474121094"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.obolibrary.org/obo/RO_0002212> <http://model.geneontology.org/586fc17a00001477/586fc17a00001490> ;
+	<http://purl.obolibrary.org/obo/RO_0002213> <http://model.geneontology.org/586fc17a00001477/586fc17a00001483> , <http://model.geneontology.org/586fc17a00001477/586fc17a00001486> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://identifiers.org/TAIR:locus:2033273> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> , "http://orcid.org/0000-0002-1005-8383"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/586fc17a00001489> <http://geneontology.org/lego/hint/layout/x> "559.875"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "152"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.obolibrary.org/obo/BFO_0000066> <http://model.geneontology.org/586fc17a00001477/590387f200000013> ;
+	<http://purl.obolibrary.org/obo/RO_0002092> <http://model.geneontology.org/586fc17a00001477/590387f200000014> ;
+	<http://purl.obolibrary.org/obo/RO_0002211> <http://model.geneontology.org/586fc17a00001477/586fc17a00001478> , <http://model.geneontology.org/586fc17a00001477/586fc17a00001483> ;
+	<http://purl.obolibrary.org/obo/RO_0002213> <http://model.geneontology.org/586fc17a00001477/590387f200000011> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://purl.obolibrary.org/obo/GO_0043153> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> , "http://orcid.org/0000-0002-1005-8383"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/586fc17a00001490> <http://geneontology.org/lego/hint/layout/x> "881"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "49"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://purl.obolibrary.org/obo/GO_0048366> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> , "http://orcid.org/0000-0002-1005-8383"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/586fc17a00001491> <http://geneontology.org/lego/hint/layout/x> "813"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "639"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.obolibrary.org/obo/RO_0002213> <http://model.geneontology.org/586fc17a00001477/586fc17a00001482> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://purl.obolibrary.org/obo/GO_0009740> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-1005-8383"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-03-14"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/586fc17a00001501> <http://geneontology.org/lego/hint/layout/x> "182"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "453"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.obolibrary.org/obo/BFO_0000051> <http://model.geneontology.org/586fc17a00001477/586fc17a00001481> , <http://model.geneontology.org/586fc17a00001477/586fc17a00001502> , <http://model.geneontology.org/586fc17a00001477/586fc17a00001503> ;
+	<http://purl.obolibrary.org/obo/RO_0002213> <http://model.geneontology.org/586fc17a00001477/586fc17a00001482> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://purl.obolibrary.org/obo/GO_0043234> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-1005-8383"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-03-14"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/586fc17a00001502> <http://geneontology.org/lego/hint/layout/x> "3225"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "75"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://identifiers.org/TAIR:locus:2125349> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-1005-8383"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-04-13"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/586fc17a00001503> <http://geneontology.org/lego/hint/layout/x> "1650"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "75"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://identifiers.org/TAIR:locus:2034168> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-1005-8383"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-04-13"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/58e5345900000007> <http://geneontology.org/lego/hint/layout/x> "40"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "115"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://identifiers.org/TAIR:locus:2056886> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-1005-8383"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-04-13"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/590387f200000007> <http://geneontology.org/lego/hint/layout/y> "339"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://identifiers.org/TAIR:locus:2120106> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/590387f200000008> <http://geneontology.org/lego/hint/layout/x> "52"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "266"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://identifiers.org/TAIR:locus:2184565> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/590387f200000009> <http://geneontology.org/lego/hint/layout/x> "372"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "13"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.obolibrary.org/obo/RO_0002213> <http://model.geneontology.org/586fc17a00001477/586fc17a00001489> , <http://model.geneontology.org/586fc17a00001477/590387f200000010> ;
+	<http://purl.obolibrary.org/obo/RO_0002333> <http://model.geneontology.org/586fc17a00001477/586fc17a00001479> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://purl.obolibrary.org/obo/GO_0004872> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/590387f200000010> <http://geneontology.org/lego/hint/layout/x> "7"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "12"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.obolibrary.org/obo/RO_0002333> <http://model.geneontology.org/586fc17a00001477/58e5345900000007> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://purl.obolibrary.org/obo/GO_0000989> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/590387f200000011> <http://geneontology.org/lego/hint/layout/x> "151"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "152"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://purl.obolibrary.org/obo/TO_0000227> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/590387f200000012> <http://geneontology.org/lego/hint/layout/x> "879"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "123"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.obolibrary.org/obo/RO_0002211> <http://model.geneontology.org/586fc17a00001477/586fc17a00001489> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://purl.obolibrary.org/obo/EO_0007207> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/590387f200000013> a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://purl.obolibrary.org/obo/PO_0025025> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/586fc17a00001477/590387f200000014> <http://geneontology.org/lego/hint/layout/x> "727"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "360"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#NamedIndividual> , <http://purl.obolibrary.org/obo/PO_0007057> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://purl.obolibrary.org/obo/BFO_0000051> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://purl.obolibrary.org/obo/BFO_0000066> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://purl.obolibrary.org/obo/EO_0007207> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://purl.obolibrary.org/obo/GO_0000989> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://purl.obolibrary.org/obo/GO_0004872> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://purl.obolibrary.org/obo/GO_0009740> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://purl.obolibrary.org/obo/GO_0043153> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://purl.obolibrary.org/obo/GO_0043234> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://purl.obolibrary.org/obo/GO_0048366> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://purl.obolibrary.org/obo/GO_0048574> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://purl.obolibrary.org/obo/PO_0007057> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://purl.obolibrary.org/obo/PO_0025025> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://purl.obolibrary.org/obo/RO_0002092> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://purl.obolibrary.org/obo/RO_0002211> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://purl.obolibrary.org/obo/RO_0002212> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://purl.obolibrary.org/obo/RO_0002213> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://purl.obolibrary.org/obo/RO_0002333> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://purl.obolibrary.org/obo/RO_0002406> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://purl.obolibrary.org/obo/TO_0000227> a <http://www.w3.org/2002/07/owl#Class> .
+
+<http://www.w3.org/2000/01/rdf-schema#label> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://purl.org/dc/elements/1.1/contributor> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://purl.org/dc/elements/1.1/date> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+_:t155 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOwl#id> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2005515> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "TAIR:locus:2005515"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t156 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.w3.org/2000/01/rdf-schema#label> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2034168> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "FT"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t157 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOwl#id> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2056886> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "TAIR:locus:2056886"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t158 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.w3.org/2000/01/rdf-schema#label> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2056886> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "FT1"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t159 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOwl#id> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2120106> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "TAIR:locus:2120106"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t160 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.w3.org/2000/01/rdf-schema#label> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2120106> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "SHR"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t161 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOwl#id> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2125349> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "TAIR:locus:2125349"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t162 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.w3.org/2000/01/rdf-schema#label> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2125349> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "FD"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t163 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOwl#id> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2143206> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "TAIR:locus:2143206"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t164 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.w3.org/2000/01/rdf-schema#label> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2143206> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "CO"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t165 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOwl#id> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2159208> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "TAIR:locus:2159208"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t166 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.w3.org/2000/01/rdf-schema#label> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2005515> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "PHYB"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t167 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.w3.org/2000/01/rdf-schema#label> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2159208> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "LFY"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t168 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOwl#id> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2184118> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "TAIR:locus:2184118"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t169 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.w3.org/2000/01/rdf-schema#label> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2184118> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "FLC"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t170 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOwl#id> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2184565> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "TAIR:locus:2184565"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t171 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.w3.org/2000/01/rdf-schema#label> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2184565> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "SHBY"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t172 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://purl.obolibrary.org/obo/BFO_0000066> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://model.geneontology.org/586fc17a00001477/586fc17a00001489> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> <http://model.geneontology.org/586fc17a00001477/590387f200000013> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:t173 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://purl.obolibrary.org/obo/RO_0002092> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://model.geneontology.org/586fc17a00001477/586fc17a00001489> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> <http://model.geneontology.org/586fc17a00001477/590387f200000014> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:t174 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://purl.obolibrary.org/obo/RO_0002213> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://model.geneontology.org/586fc17a00001477/586fc17a00001489> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> <http://model.geneontology.org/586fc17a00001477/590387f200000011> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:t175 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://purl.obolibrary.org/obo/RO_0002213> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://model.geneontology.org/586fc17a00001477/590387f200000009> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> <http://model.geneontology.org/586fc17a00001477/586fc17a00001489> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:t176 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://purl.obolibrary.org/obo/RO_0002213> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://model.geneontology.org/586fc17a00001477/590387f200000009> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> <http://model.geneontology.org/586fc17a00001477/590387f200000010> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:t177 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOwl#id> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2005522> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "TAIR:locus:2005522"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t178 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://purl.obolibrary.org/obo/RO_0002333> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://model.geneontology.org/586fc17a00001477/590387f200000009> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> <http://model.geneontology.org/586fc17a00001477/586fc17a00001479> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:t179 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://purl.obolibrary.org/obo/RO_0002333> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://model.geneontology.org/586fc17a00001477/590387f200000010> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> <http://model.geneontology.org/586fc17a00001477/58e5345900000007> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:t180 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://purl.obolibrary.org/obo/RO_0002211> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://model.geneontology.org/586fc17a00001477/590387f200000012> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> <http://model.geneontology.org/586fc17a00001477/586fc17a00001489> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-02"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:t181 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.w3.org/2000/01/rdf-schema#label> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2005522> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "AGL20"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t182 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOwl#id> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2012300> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "TAIR:locus:2012300"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t183 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.w3.org/2000/01/rdf-schema#label> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2012300> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "PHYA"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t184 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOwl#id> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2033273> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "TAIR:locus:2033273"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t185 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.w3.org/2000/01/rdf-schema#label> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2033273> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "AP1"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t186 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOwl#id> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2034168> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "TAIR:locus:2034168"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .

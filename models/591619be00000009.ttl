@@ -1,0 +1,49 @@
+
+<http://model.geneontology.org/591619be00000009> a <http://www.w3.org/2002/07/owl#Ontology> .
+
+<http://geneontology.org/lego/derived> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://geneontology.org/lego/hint/layout/x> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://geneontology.org/lego/hint/layout/y> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://geneontology.org/lego/json-model> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://identifiers.org/TAIR:locus:2159208> <http://www.geneontology.org/formats/oboInOwl#id> "TAIR:locus:2159208"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Class> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "LFY"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/591619be00000009> <http://geneontology.org/lego/json-model> "{\"id\":\"gomodel:591619be00000009\",\"individuals\":[{\"id\":\"gomodel:591619be00000009/591619be00000011\",\"type\":[{\"type\":\"class\",\"id\":\"TAIR:locus:2159208\",\"label\":\"LFY\"}],\"annotations\":[{\"key\":\"date\",\"value\":\"2017-05-22\"},{\"key\":\"hint-layout-y\",\"value\":\"74\"},{\"key\":\"hint-layout-x\",\"value\":\"75\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"}]}],\"facts\":[],\"annotations\":[{\"key\":\"state\",\"value\":\"development\"},{\"key\":\"date\",\"value\":\"2017-05-22\"},{\"key\":\"contributor\",\"value\":\"http://orcid.org/0000-0002-6379-8932\"},{\"key\":\"title\",\"value\":\"LFY in Arabidopsis\"}]}"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/modelstate> "development"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.geneontology.org/formats/oboInOwl#id> "gomodel:591619be00000009"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Ontology> ;
+	<http://www.w3.org/2002/07/owl#imports> <http://purl.obolibrary.org/obo/upheno/monarch.owl> ;
+	<http://purl.org/dc/elements/1.1/title> "LFY in Arabidopsis"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-22"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://model.geneontology.org/591619be00000009/591619be00000011> <http://geneontology.org/lego/hint/layout/x> "75"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://geneontology.org/lego/hint/layout/y> "74"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://identifiers.org/TAIR:locus:2159208> , <http://www.w3.org/2002/07/owl#NamedIndividual> ;
+	<http://purl.org/dc/elements/1.1/contributor> "http://orcid.org/0000-0002-6379-8932"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://purl.org/dc/elements/1.1/date> "2017-05-22"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://www.geneontology.org/formats/oboInOwl#id> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://www.w3.org/2000/01/rdf-schema#label> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://purl.org/dc/elements/1.1/contributor> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+<http://purl.org/dc/elements/1.1/date> a <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+
+_:t26 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.geneontology.org/formats/oboInOwl#id> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2159208> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "TAIR:locus:2159208"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
+
+_:t27 <http://geneontology.org/lego/derived> "true"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://www.w3.org/2002/07/owl#annotatedProperty> <http://www.w3.org/2000/01/rdf-schema#label> ;
+	<http://www.w3.org/2002/07/owl#annotatedSource> <http://identifiers.org/TAIR:locus:2159208> ;
+	<http://www.w3.org/2002/07/owl#annotatedTarget> "LFY"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	a <http://www.w3.org/2002/07/owl#Axiom> .
